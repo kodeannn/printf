@@ -1,6 +1,3 @@
-Certainly! Here's the Markdown code for the README.md file based on the information provided:
-
-```markdown
 # 0x11. C - printf
 
 ## Project Overview
@@ -12,12 +9,6 @@ This project is a collaborative effort by Samuel Egundeyi and Ian Kioko to creat
 - **Team Members:**
   - Samuel Egundeyi
   - Ian Kioko
-
-- **Project Timeline:**
-  - Start Date: November 10, 2023, 6:00 AM
-  - End Date: November 15, 2023, 6:00 AM
-  - Checker Release: November 11, 2023, 12:00 PM
-  - Auto Review Deadline: Project completion deadline
 
 ## Concepts to Focus On
 
@@ -110,6 +101,3 @@ The primary task is to write a custom `printf` function. The team is expected to
 ## Conclusion
 
 This README provides an overview of the collaborative project undertaken by Samuel Egundeyi and Ian Kioko to implement their version of the `printf` function in C. The guidelines, concepts, and tasks outlined above serve as a roadmap for the successful completion of the project. Adhering to the specified requirements and best practices is crucial for a well-executed and original solution.
-```
-
-Feel free to customize it further based on your specific needs and preferences.
