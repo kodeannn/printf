@@ -91,13 +91,6 @@ The primary task is to write a custom `printf` function. The team is expected to
 - Ensure to test edge cases
 - Follow the behavior of the standard printf in cases not specified in the task
 
-## Copyright - Plagiarism
-
-- Develop solutions independently
-- Strictly forbid plagiarism
-- Do not publish any content of this project
-- Any form of plagiarism results in removal from the program
-
 ## Conclusion
 
 This README provides an overview of the collaborative project undertaken by Samuel Egundeyi and Ian Kioko to implement their version of the `printf` function in C. The guidelines, concepts, and tasks outlined above serve as a roadmap for the successful completion of the project. Adhering to the specified requirements and best practices is crucial for a well-executed and original solution.
