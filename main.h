@@ -17,4 +17,7 @@ int print_pos(va_list args);
 int print_octal(va_list val);
 int print_hexd(va_list val);
 int print_HEXD(va_list val);
+int print_hextra(unsigned int dig);
+int print_strex(val_list val);
+
 #endif
