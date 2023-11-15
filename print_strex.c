@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_strex - used to print exclusive strings
  * @val: value
@@ -8,7 +9,7 @@
 int print_strex(val_list val)
 {
 	char *d;
-	int j; len = 0;
+	int j, len = 0;
 	int vall;
 
 	d = va_arg(val, char *);

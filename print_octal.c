@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * print_octal - used to print octal integers
+ * @val: octal value to be printed
+ * Return: the printed octal value
+ */
+
 int print_octal(va_list val)
 {
 	int j;

@@ -20,5 +20,6 @@ int print_HEXD(va_list val);
 int print_hextra(unsigned int dig);
 int print_strex(val_list val);
 int print_rev(va_list val);
+int print_rot13(va_list val);
 
 #endif

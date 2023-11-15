@@ -16,7 +16,7 @@ int print_rev(va_list val)
 		d = "(null)";
 	while (d[k] != '\0')
 		k++;
-	for (j = k -1; j >= 0; j--)
+	for (j = k - 1; j >= 0; j--)
 		_putchar(d[j]);
 	return (k);
 }
