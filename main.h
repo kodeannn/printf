@@ -19,5 +19,6 @@ int print_hexd(va_list val);
 int print_HEXD(va_list val);
 int print_hextra(unsigned int dig);
 int print_strex(val_list val);
+int print_rev(va_list val);
 
 #endif
