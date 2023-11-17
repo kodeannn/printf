@@ -13,12 +13,13 @@ int percentage_print(void);
 int print_de(va_list args);
 int print_num(va_list args);
 int binary_printf(va_list content);
+int pointer_printf(va_list content);
 int print_pos(va_list args);
 int print_octal(va_list val);
 int print_hexd(va_list val);
 int print_HEXD(va_list val);
 int print_hextra(unsigned int dig);
-int print_strex(val_list val);
+int print_strex(va_list val);
 int print_rev(va_list val);
 int print_rot13(va_list val);
 
