@@ -4,6 +4,12 @@
 #include <stdlib.h>
 #include <stdarg.h>
 
+typedef struct frmt
+{
+	char *di;
+	int (*f)();
+} match;
+
 int _putchar(char c);
 int printChar(va_list content);
 int printString(va_list content);
