@@ -15,7 +15,7 @@ int printString(va_list content)
 	if (string == NULL)
 	{
 		string = "(null)";
-		length = _strlen(string);
+		size = _strlen(string);
 		for (x = 0; x < size; x++)
 			_putchar(string[x]);
 		return (size);
